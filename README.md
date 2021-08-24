@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @digant30
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on various new platforms
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me digantgandhi30@gmail.com
 
 <!---
